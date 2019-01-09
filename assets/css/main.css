@@ -3326,8 +3326,8 @@ input, select, textarea {
 				line-height: 2.25rem;
 				border-radius: 2.25rem;
 				background-color: white;
-				left: 0;
 				position: absolute;
+				left: 0;
 				color: #2e2b37;
 				cursor: default;
 				font-size: 1.125rem;
