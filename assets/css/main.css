@@ -2870,8 +2870,8 @@ input, select, textarea {
 
 				#header .logo .symbol img {
 					display: block;
-					width: 150px;
-					height: 106px;
+					width: 234px;
+					height: 165px;
 				}
 
 		#header nav {
@@ -3218,8 +3218,8 @@ input, select, textarea {
 				padding: 0;
 				margin-top: 5em;
 				list-style: none;
-				font-size: 0.8em;
-				color: rgba(88, 88, 88, 0.5);
+				font-size: 0.9em;
+				color: rgba(80, 80, 80, 0.7);
 			}
 
 				#footer > .inner .copyright a {
@@ -3230,7 +3230,7 @@ input, select, textarea {
 					display: inline-block;
 					border-left: solid 1px rgba(88, 88, 88, 0.15);
 					line-height: 1;
-					padding: 0 0 0 1em;
+					padding: 0 0 0 0;
 					margin: 0 0 0 1em;
 				}
 
